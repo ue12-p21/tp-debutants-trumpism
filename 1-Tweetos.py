@@ -8,7 +8,7 @@ import pandas as pd
 # %% [markdown]
 # ## Chargement de la base de données
 #
-# Nous avons récupéré la liste de tous les tweets de Donald Trump via une base de données, nous allons al charger.
+# Nous avons récupéré la liste de tous les tweets de Donald Trump via une base de données, nous allons la charger.
 #
 # **Q1**: charger et exporer les données de cette base de données
 # - pouvez-vous deviner le nom de la fonction permettant de charger les fichiers au format JSON ?
