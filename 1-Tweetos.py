@@ -10,7 +10,7 @@ import pandas as pd
 #
 # Nous avons récupéré la liste de tous les tweets de Donald Trump via une base de données, nous allons la charger.
 #
-# **Q1**: charger et exporer les données de cette base de données
+# **Q1**: charger et explorer les données de cette base de données
 # - pouvez-vous deviner le nom de la fonction permettant de charger les fichiers au format JSON ?
 #   (pensez à la façon dont on charge un CSV)
 # - chargez le fichier de données et affichez-en les premières lignes
